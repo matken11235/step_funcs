@@ -1,0 +1,8 @@
+name: step_funcs
+version: 0.1.0
+cpp_version: 17
+owners:
+  - Your Name
+build:
+  system: poac
+  bin: true
